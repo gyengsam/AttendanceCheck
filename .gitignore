@@ -67,3 +67,11 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+Icon/
+Image/
+SetUp/
+Setup_Nsis/
+SQLite3/
+Win32/
+Olddata/
+OldIcon/
